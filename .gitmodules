@@ -1,0 +1,3 @@
+[submodule "projects/freecodecamp/algorithmic-trading-python"]
+	path = projects/freecodecamp/algorithmic-trading-python
+	url = https://github.com/nickmccullum/algorithmic-trading-python.git
