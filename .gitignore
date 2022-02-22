@@ -3,3 +3,4 @@
 /.idea
 *.pdb
 *.exe
+books/the-rust-programming-language/chapter-1/hello_cargo/target
