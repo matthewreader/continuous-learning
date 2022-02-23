@@ -4,3 +4,4 @@
 *.pdb
 *.exe
 books/the-rust-programming-language/chapter-1/hello_cargo/target
+books/the-rust-programming-language/chapter-2/guessing_game/target
