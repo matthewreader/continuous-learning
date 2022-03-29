@@ -20,3 +20,4 @@ class Solution:
         # Any other endpoint will have half the range plus 1
         else:
             return ((high - low) // 2) + 1
+
