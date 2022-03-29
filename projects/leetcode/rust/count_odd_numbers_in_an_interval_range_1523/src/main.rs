@@ -8,6 +8,7 @@ impl Solution {
     }
 }
 
+
 //fn main() {
 //    println!("{}", count_odds(1, 1055));
 //}
