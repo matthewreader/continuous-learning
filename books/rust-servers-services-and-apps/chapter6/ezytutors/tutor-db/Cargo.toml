@@ -1,7 +1,9 @@
 [package]
 name = "tutor-db"
 version = "0.1.0"
-edition = "2021"
+authors = ["peshwar9"]
+edition = "2018"
+
 
 [dependencies]
 #Actix web framework and run-time
@@ -21,5 +23,5 @@ serde = { version = "1.0.110", features = ["derive"] }
 # Other utils
 chrono = {version = "0.4.11", features = ["serde"]}
 
-# Openssl for build
+# Openssl for linux build
 openssl = { version = "0.10", features = ["vendored"] }
