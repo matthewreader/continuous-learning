@@ -9,3 +9,5 @@ target/
 .vs/
 *.class
 *.tasty
+Cargo.toml
+Cargo.lock
